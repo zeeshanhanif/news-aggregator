@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "requirements-engineering": {
+      "source": "zeeshanhanif/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/requirements-engineering/SKILL.md",
+      "computedHash": "8f6ec4224b7b0097db068cfcbd06f10d45d6a4d0492afda3753112afdf888d71"
+    }
+  }
+}
